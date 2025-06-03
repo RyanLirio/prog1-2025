@@ -1,0 +1,30 @@
+﻿@model List<Modelo.Product>
+
+<a asp-action="Create" asp-controller="Product" class="btn btn-light">Novo Product</a>
+
+@if (Model.Count > 0)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Modelo.Product product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.ProductName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div>
+        Não existem registros de products
+    </div>
+}

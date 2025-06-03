@@ -1,0 +1,32 @@
+﻿@model List<Modelo.Customer>
+
+<a asp-action="Create" asp-controller="Customer" class="btn btn-light">Novo Customer</a>
+
+@if (Model.Count > 0)
+{
+    <table class="table table-striped table-bordered table-hover"> 
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+            </tr>
+        </thead>
+        <tbody>
+           @foreach (Modelo.Customer customer in Model)
+           {
+                <tr>
+                    <td>@customer.Id</td>
+                    <td>@customer.Name</td>
+                </tr>           
+           }
+        </tbody>
+    </table>
+}
+else
+{
+    <div>
+        Não existem registros de customers
+    </div>
+}
+
+<a asp-action="ExportDelimitatedFile" asp-controller="Customer" class="btn btn-light">Exportar Dados</a>
