@@ -53,7 +53,7 @@ namespace Aula05.Controllers
         [HttpGet]
         public IActionResult ExportDelimitedFile()
         {
-            string filecontent = string.Empty;
+            /*string filecontent = string.Empty;
             foreach (Product c in ProductData.Products)
             {
                 filecontent += $"{c.Id};\n{c.ProductName};\n{c.Description};\n{c.CurrentPrice};\n";
@@ -81,7 +81,7 @@ namespace Aula05.Controllers
                 }
 
             }
-
+            */
             return View();
         }
     }

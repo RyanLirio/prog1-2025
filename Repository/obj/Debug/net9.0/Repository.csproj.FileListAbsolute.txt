@@ -57,3 +57,4 @@ C:\Users\430344\Desktop\Prog_1-22760372bd5db700a240118ccbe293a8bff64f27\Aulas\Au
 C:\Users\430344\Desktop\Prog_1-22760372bd5db700a240118ccbe293a8bff64f27\Aulas\Aula05\Repository\obj\Debug\net9.0\refint\Repository.dll
 C:\Users\430344\Desktop\Prog_1-22760372bd5db700a240118ccbe293a8bff64f27\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.pdb
 C:\Users\430344\Desktop\Prog_1-22760372bd5db700a240118ccbe293a8bff64f27\Aulas\Aula05\Repository\obj\Debug\net9.0\ref\Repository.dll
+C:\Users\430344\Desktop\Prog_1-22760372bd5db700a240118ccbe293a8bff64f27\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.sourcelink.json

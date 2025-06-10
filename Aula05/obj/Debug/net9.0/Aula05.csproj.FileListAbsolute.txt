@@ -416,3 +416,4 @@ C:\Users\430344\Desktop\Prog_1-22760372bd5db700a240118ccbe293a8bff64f27\Aulas\Au
 C:\Users\430344\Desktop\Prog_1-22760372bd5db700a240118ccbe293a8bff64f27\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.genruntimeconfig.cache
 C:\Users\430344\Desktop\Prog_1-22760372bd5db700a240118ccbe293a8bff64f27\Aulas\Aula05\Aula05\obj\Debug\net9.0\ref\Aula05.dll
 C:\Users\430344\Desktop\Prog_1-22760372bd5db700a240118ccbe293a8bff64f27\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\6yvihjgntk-et0bfxsei9.gz
+C:\Users\430344\Desktop\Prog_1-22760372bd5db700a240118ccbe293a8bff64f27\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.sourcelink.json
